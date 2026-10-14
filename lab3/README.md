@@ -33,6 +33,7 @@ python -m lab3.run --config lab3/config.json --data lab3/data.csv --output lab3/
 ```powershell
 python -m lab3.replay --method nsga2 --seed 3000
 python -m lab3.replay --method weighted --seed 3000
+python -m lab3.predict --features 1.0 1.0 0.2 -0.4
 ```
 
 Повторное проведение эксперимента заменяет результаты и отчёт. Отчёт создаётся

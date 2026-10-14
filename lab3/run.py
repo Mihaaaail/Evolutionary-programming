@@ -105,7 +105,7 @@ def run(config,data_path,output):
     # Разогрев библиотеки выполняется до первого измерения и одинаков для методов.
     train_model(*data["train"],{"hidden":4,"epochs":5,"learning_rate":.1,"l2":0},config["model_seed"])
     initialize,vary = operators(config)
-    rows,histories,all_records,front_records = [],[],[],[]
+    rows,histories,front_records = [],[],[]
     finals = []
     log_path = output / "evaluations.jsonl"
     with log_path.open("w",encoding="utf-8") as log:
@@ -137,7 +137,6 @@ def run(config,data_path,output):
                 histories.extend({"method":method,"seed":seed,**h} for h in result["history"])
                 for record in evaluator.records:
                     enriched = {"method":method,"seed":seed,**record}
-                    all_records.append(enriched)
                     log.write(json.dumps(enriched,ensure_ascii=False)+"\n")
                 if (index+1) % 5 == 0:
                     print(f"Лабораторная 3: {NAMES[method]}, завершено {index+1}/{config['runs']} запусков",flush=True)

@@ -98,6 +98,8 @@ def run(config, data_path, output):
                 groups.setdefault(row["evaluations"],[]).append(row["best"])
         comparisons.append((NAMES[method],[(n,sum(v)/len(v)) for n,v in sorted(groups.items())]))
     chart(output / "comparison.svg",comparisons,"Динамика стоимости с учётом штрафов","Вычисления функции","Среднее лучшее значение")
+    chart(output / "comparison-final.svg",[(name,[(n,v) for n,v in points if n >= config["budget"]/2])
+          for name,points in comparisons],"Вторая половина поиска","Вычисления функции","Среднее лучшее значение")
     schedule_table = "| День | Утро | День | Ночь |\n|---|---|---|---|\n"
     for day,name in enumerate(DAYS):
         schedule_table += "| " + name + " | " + " | ".join(problem.employees[overall["schedule"][3*day+s]]["name"] for s in range(3)) + " |\n"
@@ -194,6 +196,8 @@ flowchart TD
 {rates}
 
 ![Сравнение методов](results/comparison.svg)
+
+![Подробное сравнение второй половины поиска](results/comparison-final.svg)
 
 Графики отдельных серий с минимумом, средним и максимумом находятся в `results/`.
 Штрафные значения не следует смешивать с мягкими стоимостями допустимых решений.

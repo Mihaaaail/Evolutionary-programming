@@ -2,6 +2,7 @@
 
 import argparse
 import json
+import math
 from pathlib import Path
 
 from evolab.common import ROOT,read_json
@@ -23,7 +24,8 @@ def replay(method,seed,results):
     def evaluate(genome):
         nonlocal position
         record = records[position]
-        if genome != record["genome"]:
+        if len(genome) != len(record["genome"]) or not all(math.isclose(a,b,rel_tol=1e-12,abs_tol=1e-12)
+                                                                       for a,b in zip(genome,record["genome"])):
             raise AssertionError(f"Траектория разошлась на оценке {position+1}")
         position += 1
         return tuple(record["objectives"])
@@ -37,7 +39,10 @@ def replay(method,seed,results):
     expected = next(f for f in read_json(results / "final_fronts.json") if f["method"] == method and f["seed"] == seed)
     actual = {(tuple(result["population"][i]),tuple(result["objectives"][i])) for i in nondominated_sort(result["objectives"])[0]}
     saved = {(tuple(r["genome"]),tuple(r["objectives"])) for r in expected["front"]}
-    if actual != saved:
+    def matches(a,b):
+        return a[1] == b[1] and all(math.isclose(x,y,rel_tol=1e-12,abs_tol=1e-12) for x,y in zip(a[0],b[0]))
+    # Разные системные математические библиотеки могут давать различие последнего разряда.
+    if not all(any(matches(a,b) for b in saved) for a in actual) or not all(any(matches(a,b) for a in actual) for b in saved):
         raise AssertionError("Финальный фронт отличается от записанного")
     return position
 
