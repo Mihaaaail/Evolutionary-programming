@@ -1,0 +1,19 @@
+{
+  "population": 32,
+  "budget": 320,
+  "runs": 20,
+  "first_seed": 3000,
+  "data_seed": 260310,
+  "model_seed": 261010,
+  "training_repeats": 3,
+  "hidden_min": 2,
+  "hidden_max": 16,
+  "epochs_min": 10,
+  "epochs_max": 80,
+  "log10_learning_rate_min": -2.0,
+  "log10_learning_rate_max": -0.3,
+  "mutation_probability": 0.3,
+  "crossover_probability": 0.9,
+  "objective_scales": [1.0, 10.0, 97.0],
+  "weight_vectors": [[0.8, 0.1, 0.1], [0.5, 0.25, 0.25], [0.25, 0.5, 0.25]]
+}

@@ -1,0 +1,68 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "processor": "AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD",
+  "config": {
+    "population": 32,
+    "budget": 320,
+    "runs": 20,
+    "first_seed": 3000,
+    "data_seed": 260310,
+    "model_seed": 261010,
+    "training_repeats": 3,
+    "hidden_min": 2,
+    "hidden_max": 16,
+    "epochs_min": 10,
+    "epochs_max": 80,
+    "log10_learning_rate_min": -2.0,
+    "log10_learning_rate_max": -0.3,
+    "mutation_probability": 0.3,
+    "crossover_probability": 0.9,
+    "objective_scales": [
+      1.0,
+      10.0,
+      97.0
+    ],
+    "weight_vectors": [
+      [
+        0.8,
+        0.1,
+        0.1
+      ],
+      [
+        0.5,
+        0.25,
+        0.25
+      ],
+      [
+        0.25,
+        0.5,
+        0.25
+      ]
+    ]
+  },
+  "variant": {
+    "student_number": 28,
+    "group": 517,
+    "group_index": 1,
+    "year": 26,
+    "variant": 10,
+    "dimension": 9,
+    "lab3_track": "A"
+  },
+  "numpy": "2.3.5",
+  "standardization": {
+    "mean": [
+      0.012260368560373514,
+      0.10842242799662793,
+      -0.04163925803646677,
+      0.045540196973563755
+    ],
+    "std": [
+      1.116266803104508,
+      1.0977545039587933,
+      1.1723001433829794,
+      1.1997504420887142
+    ]
+  }
+}

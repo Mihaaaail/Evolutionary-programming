@@ -1,0 +1,7613 @@
+[
+  {
+    "method": "nsga2",
+    "seed": 3000,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3000,
+        "genome": [
+          2,
+          10,
+          -1.038070525491978,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.09160717162894906,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.275,
+          0.3494,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3000,
+        "genome": [
+          6,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.4363,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3000,
+        "genome": [
+          2,
+          40,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 40,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          1.4391,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3000,
+        "genome": [
+          3,
+          14,
+          -0.4029096888066117,
+          0
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 14,
+          "learning_rate": 0.3954488447924798,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.514,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3000,
+        "genome": [
+          8,
+          10,
+          -0.3687961627560984,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.42776361100520605,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.19999999999999996,
+          0.4696,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3000,
+        "genome": [
+          2,
+          10,
+          -2.0,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.01,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.30000000000000004,
+          0.3471,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3000,
+        "genome": [
+          2,
+          14,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 14,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.4809,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3000,
+        "genome": [
+          2,
+          10,
+          -0.5650521152694196,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.2722374603952429,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.25,
+          0.351,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "nsga2",
+    "seed": 3001,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          5,
+          52,
+          -0.40010942975172004,
+          1
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 52,
+          "learning_rate": 0.39800687160296566,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          2.0843,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          2,
+          52,
+          -0.5506310310462064,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 52,
+          "learning_rate": 0.28142907869797223,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          2.8176,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          3,
+          10,
+          -0.9007358046724867,
+          1
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 10,
+          "learning_rate": 0.12567942796499973,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.525,
+          0.415,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          8,
+          52,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 52,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.125,
+          3.7106,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          3,
+          10,
+          -0.8193927318829086,
+          1
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 10,
+          "learning_rate": 0.15156791210691029,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.5,
+          0.4286,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          8,
+          10,
+          -0.3792255709766054,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.4176134034215185,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.19999999999999996,
+          0.7363,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          6,
+          30,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 30,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.17500000000000004,
+          2.0556,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          4,
+          42,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 4,
+          "epochs": 42,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          2.7037,
+          25
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          8,
+          47,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 47,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.15000000000000002,
+          3.3884,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          8,
+          72,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 72,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.09999999999999998,
+          5.1455,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          2,
+          10,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.25,
+          0.4415,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          6,
+          20,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 20,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          1.2178,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          6,
+          25,
+          -0.3792255709766054,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 25,
+          "learning_rate": 0.4176134034215185,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.21250000000000002,
+          1.6721,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          2,
+          47,
+          -0.5506310310462064,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 47,
+          "learning_rate": 0.28142907869797223,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          2.5769,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          5,
+          70,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 70,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.125,
+          4.554,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          6,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.697,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          3,
+          62,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 62,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.17500000000000004,
+          3.2071,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          4,
+          32,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 4,
+          "epochs": 32,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          1.9279,
+          25
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          3,
+          72,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 72,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.16249999999999998,
+          4.1724,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3001,
+        "genome": [
+          8,
+          80,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 80,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.08750000000000002,
+          5.7718,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "method": "nsga2",
+    "seed": 3002,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3002,
+        "genome": [
+          8,
+          27,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 27,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.1875,
+          1.653,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3002,
+        "genome": [
+          8,
+          10,
+          -0.4609929478740566,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.3459449952768847,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.19999999999999996,
+          0.5292,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3002,
+        "genome": [
+          2,
+          25,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 25,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          1.43,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3002,
+        "genome": [
+          6,
+          37,
+          -0.4609929478740566,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 37,
+          "learning_rate": 0.3459449952768847,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.19999999999999996,
+          2.4577,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3002,
+        "genome": [
+          6,
+          37,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 37,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.1875,
+          2.4691,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3002,
+        "genome": [
+          2,
+          15,
+          -0.4339307423097804,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 15,
+          "learning_rate": 0.36818768448624356,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.9027,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3002,
+        "genome": [
+          6,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.7825,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3002,
+        "genome": [
+          2,
+          45,
+          -0.4609929478740566,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 45,
+          "learning_rate": 0.3459449952768847,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          2.3716,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3002,
+        "genome": [
+          2,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.25,
+          0.3599,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "nsga2",
+    "seed": 3003,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3003,
+        "genome": [
+          3,
+          75,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 75,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.16249999999999998,
+          4.3064,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3003,
+        "genome": [
+          5,
+          50,
+          -0.30836604205981066,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 50,
+          "learning_rate": 0.4916249983273288,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.1875,
+          3.2207,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3003,
+        "genome": [
+          2,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.25,
+          0.4198,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3003,
+        "genome": [
+          8,
+          78,
+          -0.331445011161827,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 78,
+          "learning_rate": 0.46618145051906357,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.08750000000000002,
+          5.5972,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3003,
+        "genome": [
+          2,
+          75,
+          -0.5746669262469736,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 75,
+          "learning_rate": 0.2662766434117455,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          4.1093,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3003,
+        "genome": [
+          2,
+          25,
+          -0.30836604205981066,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 25,
+          "learning_rate": 0.4916249983273288,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          1.3225,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3003,
+        "genome": [
+          8,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.21250000000000002,
+          0.7655,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3003,
+        "genome": [
+          8,
+          75,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 75,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.09999999999999998,
+          5.4693,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3003,
+        "genome": [
+          12,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 12,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.7164,
+          73
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3003,
+        "genome": [
+          6,
+          10,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.6984,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3003,
+        "genome": [
+          8,
+          10,
+          -0.5030190527036651,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.31403709213013503,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.7438,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3003,
+        "genome": [
+          2,
+          15,
+          -0.3304074019074124,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 15,
+          "learning_rate": 0.46729657518433476,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.7018,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3003,
+        "genome": [
+          8,
+          35,
+          -0.30836604205981066,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 35,
+          "learning_rate": 0.4916249983273288,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.1875,
+          2.5373,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3003,
+        "genome": [
+          6,
+          25,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 25,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.19999999999999996,
+          1.7402,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3003,
+        "genome": [
+          6,
+          50,
+          -0.5030190527036651,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 50,
+          "learning_rate": 0.31403709213013503,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.17500000000000004,
+          4.1918,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3003,
+        "genome": [
+          8,
+          50,
+          -0.37588797911273125,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 50,
+          "learning_rate": 0.42083516360885537,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.16249999999999998,
+          3.5725,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3003,
+        "genome": [
+          5,
+          75,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 75,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.11250000000000004,
+          4.8111,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3003,
+        "genome": [
+          8,
+          50,
+          -0.30836604205981066,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 50,
+          "learning_rate": 0.4916249983273288,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.13749999999999996,
+          3.6179,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3003,
+        "genome": [
+          6,
+          15,
+          -0.30836604205981066,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 15,
+          "learning_rate": 0.4916249983273288,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          1.0276,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "method": "nsga2",
+    "seed": 3004,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3004,
+        "genome": [
+          8,
+          73,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 73,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.08750000000000002,
+          5.1635,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3004,
+        "genome": [
+          6,
+          31,
+          -0.37283201315056214,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 31,
+          "learning_rate": 0.42380686454613214,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.19999999999999996,
+          2.0085,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3004,
+        "genome": [
+          2,
+          10,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.25,
+          0.3604,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3004,
+        "genome": [
+          8,
+          10,
+          -0.37283201315056214,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.42380686454613214,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.19999999999999996,
+          0.8019,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3004,
+        "genome": [
+          8,
+          58,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 58,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.11250000000000004,
+          3.9911,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3004,
+        "genome": [
+          8,
+          10,
+          -0.31159981617000154,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.4879779338397984,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          0.7882,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3004,
+        "genome": [
+          2,
+          30,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 30,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          1.7645,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3004,
+        "genome": [
+          6,
+          16,
+          -0.37283201315056214,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 16,
+          "learning_rate": 0.42380686454613214,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.21250000000000002,
+          1.1426,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3004,
+        "genome": [
+          2,
+          16,
+          -0.383370687827169,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 16,
+          "learning_rate": 0.41364646019047563,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.5967,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3004,
+        "genome": [
+          6,
+          30,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 30,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.17500000000000004,
+          2.0448,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "method": "nsga2",
+    "seed": 3005,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3005,
+        "genome": [
+          8,
+          54,
+          -0.32294326250340477,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 54,
+          "learning_rate": 0.4753973291783749,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.125,
+          3.8945,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3005,
+        "genome": [
+          5,
+          54,
+          -0.32294326250340477,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 54,
+          "learning_rate": 0.4753973291783749,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.1875,
+          3.4704,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3005,
+        "genome": [
+          2,
+          10,
+          -0.67736403166216,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.21020157623341706,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.26249999999999996,
+          0.5976,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3005,
+        "genome": [
+          2,
+          11,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 11,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.648,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3005,
+        "genome": [
+          2,
+          38,
+          -0.3858380065100446,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 38,
+          "learning_rate": 0.4113031101164256,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          2.1828,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3005,
+        "genome": [
+          6,
+          26,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 26,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.19999999999999996,
+          2.1376,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3005,
+        "genome": [
+          8,
+          26,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 26,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.1875,
+          1.8918,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3005,
+        "genome": [
+          6,
+          54,
+          -0.32294326250340477,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 54,
+          "learning_rate": 0.4753973291783749,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.17500000000000004,
+          3.6841,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3005,
+        "genome": [
+          6,
+          11,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 11,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.775,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3005,
+        "genome": [
+          6,
+          20,
+          -0.4697754368227044,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 20,
+          "learning_rate": 0.3390194095663576,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          1.4307,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3005,
+        "genome": [
+          8,
+          10,
+          -0.32294326250340477,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.4753973291783749,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          0.8277,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3005,
+        "genome": [
+          2,
+          16,
+          -0.3858380065100446,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 16,
+          "learning_rate": 0.4113031101164256,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.877,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3005,
+        "genome": [
+          2,
+          10,
+          -0.8112947172553171,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.15442061677394553,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.2875,
+          0.4209,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3005,
+        "genome": [
+          6,
+          38,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 38,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.1875,
+          2.6283,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "method": "nsga2",
+    "seed": 3006,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          3,
+          16,
+          -0.4245342489315109,
+          0
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 16,
+          "learning_rate": 0.37624068035172903,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          1.1321,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          6,
+          16,
+          -0.35019341208661653,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 16,
+          "learning_rate": 0.4464847068913516,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          1.0051,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          8,
+          10,
+          -0.3712892144239359,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.42531508412763136,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.19999999999999996,
+          0.7648,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          2,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.25,
+          0.4992,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          6,
+          10,
+          -0.9033162263738582,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 10,
+          "learning_rate": 0.12493490002938214,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.3125,
+          0.4618,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          3,
+          71,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 71,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.16249999999999998,
+          4.0012,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          2,
+          16,
+          -0.4509786128543245,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 16,
+          "learning_rate": 0.3540147743676244,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.8686,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          5,
+          61,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 61,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.13749999999999996,
+          3.9006,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          8,
+          10,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          0.7571,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          6,
+          34,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 34,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.1875,
+          2.3189,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          8,
+          80,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 80,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.08750000000000002,
+          5.4474,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          2,
+          39,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 39,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          2.0699,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          5,
+          66,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 66,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.125,
+          4.3693,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          4,
+          10,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 4,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.35,
+          0.4181,
+          25
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          7,
+          10,
+          -0.9033162263738582,
+          1
+        ],
+        "parameters": {
+          "hidden": 7,
+          "epochs": 10,
+          "learning_rate": 0.12493490002938214,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.275,
+          0.4983,
+          43
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          6,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.7248,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          3,
+          56,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 56,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.1875,
+          3.2061,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          5,
+          56,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 56,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.15000000000000002,
+          3.6548,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          8,
+          66,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 66,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.11250000000000004,
+          4.7771,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3006,
+        "genome": [
+          5,
+          80,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 80,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.11250000000000004,
+          5.0649,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "method": "nsga2",
+    "seed": 3007,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3007,
+        "genome": [
+          5,
+          53,
+          -0.38079886862354173,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 53,
+          "learning_rate": 0.41610327250275303,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.1875,
+          3.2697,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3007,
+        "genome": [
+          5,
+          63,
+          -0.31187906546849065,
+          1
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 63,
+          "learning_rate": 0.4876642671894267,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.13749999999999996,
+          4.2495,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3007,
+        "genome": [
+          2,
+          10,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.25,
+          0.5688,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3007,
+        "genome": [
+          8,
+          11,
+          -0.31187906546849065,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 11,
+          "learning_rate": 0.4876642671894267,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.21250000000000002,
+          0.6951,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3007,
+        "genome": [
+          6,
+          28,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 28,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.19999999999999996,
+          1.8705,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3007,
+        "genome": [
+          8,
+          10,
+          -0.375954849727806,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.4207703703845083,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.19999999999999996,
+          0.8287,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3007,
+        "genome": [
+          2,
+          16,
+          -0.47092468729379183,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 16,
+          "learning_rate": 0.33812346643612806,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.8988,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3007,
+        "genome": [
+          6,
+          31,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 31,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.17500000000000004,
+          2.0842,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3007,
+        "genome": [
+          8,
+          46,
+          -0.31187906546849065,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 46,
+          "learning_rate": 0.4876642671894267,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.15000000000000002,
+          3.3407,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3007,
+        "genome": [
+          2,
+          33,
+          -0.3285966375997793,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 33,
+          "learning_rate": 0.46924900714796375,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          1.7847,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3007,
+        "genome": [
+          5,
+          80,
+          -0.31187906546849065,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 80,
+          "learning_rate": 0.4876642671894267,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.11250000000000004,
+          5.2309,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3007,
+        "genome": [
+          3,
+          10,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.25,
+          0.5497,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3007,
+        "genome": [
+          5,
+          68,
+          -0.31187906546849065,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 68,
+          "learning_rate": 0.4876642671894267,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.125,
+          4.3534,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3007,
+        "genome": [
+          2,
+          28,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 28,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          1.1517,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3007,
+        "genome": [
+          8,
+          75,
+          -0.31187906546849065,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 75,
+          "learning_rate": 0.4876642671894267,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.09999999999999998,
+          5.1851,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3007,
+        "genome": [
+          8,
+          80,
+          -0.30113720074017225,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 80,
+          "learning_rate": 0.499876590827165,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.08750000000000002,
+          5.6533,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3007,
+        "genome": [
+          3,
+          63,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 63,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.16249999999999998,
+          3.656,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "method": "nsga2",
+    "seed": 3008,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3008,
+        "genome": [
+          3,
+          18,
+          -0.5282102556302842,
+          0
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 18,
+          "learning_rate": 0.29633963687131537,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          1.0399,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3008,
+        "genome": [
+          2,
+          15,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 15,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.8231,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3008,
+        "genome": [
+          8,
+          48,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 48,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.13749999999999996,
+          3.4345,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3008,
+        "genome": [
+          8,
+          58,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 58,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.125,
+          4.166,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3008,
+        "genome": [
+          2,
+          36,
+          -0.3863948405646054,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 36,
+          "learning_rate": 0.41077609256041164,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.21250000000000002,
+          2.0061,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3008,
+        "genome": [
+          2,
+          10,
+          -0.5942195674642862,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.25455429699940163,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.25,
+          0.563,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3008,
+        "genome": [
+          6,
+          33,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 33,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.17500000000000004,
+          2.2437,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3008,
+        "genome": [
+          6,
+          78,
+          -0.3077558546625277,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 78,
+          "learning_rate": 0.492316221055208,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.15000000000000002,
+          5.1471,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3008,
+        "genome": [
+          8,
+          10,
+          -0.3436945575344493,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.4532162181003469,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          0.6963,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3008,
+        "genome": [
+          8,
+          43,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 43,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.16249999999999998,
+          3.1243,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3008,
+        "genome": [
+          3,
+          58,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 58,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.17500000000000004,
+          3.3516,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3008,
+        "genome": [
+          2,
+          33,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 33,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          1.8074,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3008,
+        "genome": [
+          6,
+          15,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 15,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          1.0313,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3008,
+        "genome": [
+          2,
+          10,
+          -0.3863948405646054,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.41077609256041164,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.26249999999999996,
+          0.556,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3008,
+        "genome": [
+          8,
+          58,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 58,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.11250000000000004,
+          4.1901,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3008,
+        "genome": [
+          6,
+          29,
+          -0.33063297524988755,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 29,
+          "learning_rate": 0.46705392351699904,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.19999999999999996,
+          1.9444,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3008,
+        "genome": [
+          8,
+          10,
+          -0.38889072449808765,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.40842213900784957,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.19999999999999996,
+          0.7568,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "method": "nsga2",
+    "seed": 3009,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3009,
+        "genome": [
+          8,
+          46,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 46,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.15000000000000002,
+          3.3521,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3009,
+        "genome": [
+          6,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.5494,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3009,
+        "genome": [
+          8,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.21250000000000002,
+          0.6677,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3009,
+        "genome": [
+          8,
+          10,
+          -0.5813003748303209,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.2622404160048771,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.6335,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3009,
+        "genome": [
+          2,
+          15,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 15,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.8116,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3009,
+        "genome": [
+          2,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.25,
+          0.5533,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3009,
+        "genome": [
+          4,
+          10,
+          -0.5582610148435339,
+          0
+        ],
+        "parameters": {
+          "hidden": 4,
+          "epochs": 10,
+          "learning_rate": 0.27652791885164013,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.38749999999999996,
+          0.5111,
+          25
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3009,
+        "genome": [
+          8,
+          51,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 51,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.125,
+          3.4913,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3009,
+        "genome": [
+          8,
+          10,
+          -0.46150973160680864,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.34553358682535945,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.19999999999999996,
+          0.6977,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3009,
+        "genome": [
+          3,
+          20,
+          -0.46150973160680864,
+          1
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 20,
+          "learning_rate": 0.34553358682535945,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          1.1492,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3009,
+        "genome": [
+          2,
+          41,
+          -0.5582610148435339,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 41,
+          "learning_rate": 0.27652791885164013,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          2.1505,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3009,
+        "genome": [
+          7,
+          46,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 7,
+          "epochs": 46,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.19999999999999996,
+          2.9684,
+          43
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3009,
+        "genome": [
+          8,
+          36,
+          -0.34418721738173547,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 36,
+          "learning_rate": 0.45270238510057004,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.1875,
+          2.6677,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3009,
+        "genome": [
+          2,
+          41,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 41,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.21250000000000002,
+          2.2212,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3009,
+        "genome": [
+          8,
+          41,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 41,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.17500000000000004,
+          3.0159,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "method": "nsga2",
+    "seed": 3010,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3010,
+        "genome": [
+          2,
+          15,
+          -0.43582743811755287,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 15,
+          "learning_rate": 0.36658320330410554,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.6198,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3010,
+        "genome": [
+          2,
+          15,
+          -0.3524300669720314,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 15,
+          "learning_rate": 0.44419118226848664,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.8209,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3010,
+        "genome": [
+          6,
+          43,
+          -0.43582743811755287,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 43,
+          "learning_rate": 0.36658320330410554,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.17500000000000004,
+          2.9073,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3010,
+        "genome": [
+          5,
+          62,
+          -0.42896781165029,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 62,
+          "learning_rate": 0.37241930761536207,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.1875,
+          4.0214,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3010,
+        "genome": [
+          2,
+          43,
+          -0.42896781165029,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 43,
+          "learning_rate": 0.37241930761536207,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          1.9686,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3010,
+        "genome": [
+          8,
+          10,
+          -0.43582743811755287,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.36658320330410554,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.19999999999999996,
+          0.6404,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3010,
+        "genome": [
+          8,
+          62,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 62,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.11250000000000004,
+          4.4084,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3010,
+        "genome": [
+          2,
+          10,
+          -0.3189863097509981,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.47974857149492783,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.25,
+          0.3715,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3010,
+        "genome": [
+          5,
+          57,
+          -0.42896781165029,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 57,
+          "learning_rate": 0.37241930761536207,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.19999999999999996,
+          3.8323,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3010,
+        "genome": [
+          6,
+          43,
+          -0.37126493199699373,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 43,
+          "learning_rate": 0.4253388651601243,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.1875,
+          2.8522,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "method": "nsga2",
+    "seed": 3011,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3011,
+        "genome": [
+          8,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.21250000000000002,
+          0.5328,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3011,
+        "genome": [
+          5,
+          75,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 75,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.11250000000000004,
+          5.0492,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3011,
+        "genome": [
+          8,
+          27,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 27,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.1875,
+          2.1101,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3011,
+        "genome": [
+          6,
+          22,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 22,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.21250000000000002,
+          1.5325,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3011,
+        "genome": [
+          8,
+          22,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 22,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.19999999999999996,
+          1.6684,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3011,
+        "genome": [
+          2,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.25,
+          0.578,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3011,
+        "genome": [
+          3,
+          12,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 12,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.7395,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3011,
+        "genome": [
+          3,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.25,
+          0.4724,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3011,
+        "genome": [
+          6,
+          27,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 27,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.19999999999999996,
+          1.871,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3011,
+        "genome": [
+          6,
+          32,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 32,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.17500000000000004,
+          2.2302,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3011,
+        "genome": [
+          2,
+          20,
+          -0.3448708712349121,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 20,
+          "learning_rate": 0.45199031466427964,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          1.0737,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3011,
+        "genome": [
+          2,
+          29,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 29,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.21250000000000002,
+          1.604,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3011,
+        "genome": [
+          8,
+          64,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 64,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.11250000000000004,
+          4.326,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3011,
+        "genome": [
+          2,
+          27,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 27,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          1.4956,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3011,
+        "genome": [
+          5,
+          70,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 70,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.125,
+          4.4334,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3011,
+        "genome": [
+          6,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.6918,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3011,
+        "genome": [
+          3,
+          64,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 64,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.16249999999999998,
+          3.6302,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3011,
+        "genome": [
+          8,
+          74,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 74,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.08750000000000002,
+          5.2795,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "method": "nsga2",
+    "seed": 3012,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3012,
+        "genome": [
+          6,
+          35,
+          -0.34296523514645544,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 35,
+          "learning_rate": 0.4539779556923291,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.17500000000000004,
+          2.3722,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3012,
+        "genome": [
+          2,
+          10,
+          -0.3050780589620524,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.4953611478768901,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.25,
+          0.4781,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3012,
+        "genome": [
+          2,
+          34,
+          -0.34296523514645544,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 34,
+          "learning_rate": 0.4539779556923291,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          1.8782,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3012,
+        "genome": [
+          2,
+          10,
+          -0.4211547195610355,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.3791798761988561,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.26249999999999996,
+          0.3627,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3012,
+        "genome": [
+          8,
+          10,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          0.7417,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3012,
+        "genome": [
+          8,
+          10,
+          -0.41781816103866554,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.3821042242685603,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.19999999999999996,
+          0.7518,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3012,
+        "genome": [
+          2,
+          11,
+          -0.3050780589620524,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 11,
+          "learning_rate": 0.4953611478768901,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.6026,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3012,
+        "genome": [
+          5,
+          54,
+          -0.3050780589620524,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 54,
+          "learning_rate": 0.4953611478768901,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.17500000000000004,
+          4.2692,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3012,
+        "genome": [
+          8,
+          64,
+          -0.41781816103866554,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 64,
+          "learning_rate": 0.3821042242685603,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.13749999999999996,
+          4.6013,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3012,
+        "genome": [
+          3,
+          11,
+          -0.3050780589620524,
+          0
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 11,
+          "learning_rate": 0.4953611478768901,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.6277,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3012,
+        "genome": [
+          5,
+          59,
+          -0.4333991446181593,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 59,
+          "learning_rate": 0.3686386401634682,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.19999999999999996,
+          3.9683,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3012,
+        "genome": [
+          8,
+          34,
+          -0.41781816103866554,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 34,
+          "learning_rate": 0.3821042242685603,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.1875,
+          2.1118,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3012,
+        "genome": [
+          8,
+          45,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 45,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.15000000000000002,
+          3.2465,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3012,
+        "genome": [
+          8,
+          64,
+          -0.34296523514645544,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 64,
+          "learning_rate": 0.4539779556923291,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.11250000000000004,
+          4.8063,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3012,
+        "genome": [
+          2,
+          34,
+          -0.4780730617408875,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 34,
+          "learning_rate": 0.3326035943932712,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          1.4644,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3012,
+        "genome": [
+          8,
+          54,
+          -0.3050780589620524,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 54,
+          "learning_rate": 0.4953611478768901,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.125,
+          4.6443,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "method": "nsga2",
+    "seed": 3013,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3013,
+        "genome": [
+          3,
+          66,
+          -0.3011241884453395,
+          0
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 66,
+          "learning_rate": 0.4998915683120194,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.16249999999999998,
+          3.5002,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3013,
+        "genome": [
+          2,
+          15,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 15,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.6135,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3013,
+        "genome": [
+          2,
+          30,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 30,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          1.4566,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3013,
+        "genome": [
+          8,
+          66,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 66,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.11250000000000004,
+          4.7138,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3013,
+        "genome": [
+          2,
+          15,
+          -0.36070131112475656,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 15,
+          "learning_rate": 0.4358115028541374,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.8119,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3013,
+        "genome": [
+          8,
+          30,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 30,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.1875,
+          2.1572,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3013,
+        "genome": [
+          5,
+          66,
+          -0.3011241884453395,
+          1
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 66,
+          "learning_rate": 0.4998915683120194,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.125,
+          4.3567,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3013,
+        "genome": [
+          8,
+          27,
+          -0.3445884402445638,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 27,
+          "learning_rate": 0.4522843492312752,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.19999999999999996,
+          1.9701,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3013,
+        "genome": [
+          2,
+          10,
+          -0.39821697863888667,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.3997449825601869,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.26249999999999996,
+          0.4095,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3013,
+        "genome": [
+          8,
+          10,
+          -0.36070131112475656,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.4358115028541374,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          0.7498,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3013,
+        "genome": [
+          2,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.25,
+          0.532,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "nsga2",
+    "seed": 3014,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3014,
+        "genome": [
+          6,
+          29,
+          -0.3272676877768781,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 29,
+          "learning_rate": 0.47068711772042804,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.19999999999999996,
+          1.9744,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3014,
+        "genome": [
+          4,
+          73,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 4,
+          "epochs": 73,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.19999999999999996,
+          5.2709,
+          25
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3014,
+        "genome": [
+          8,
+          63,
+          -0.3272676877768781,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 63,
+          "learning_rate": 0.47068711772042804,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.11250000000000004,
+          4.512,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3014,
+        "genome": [
+          8,
+          73,
+          -0.3272676877768781,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 73,
+          "learning_rate": 0.47068711772042804,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.09999999999999998,
+          5.2309,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3014,
+        "genome": [
+          8,
+          56,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 56,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.125,
+          4.0693,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3014,
+        "genome": [
+          8,
+          44,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 44,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.15000000000000002,
+          3.0087,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3014,
+        "genome": [
+          2,
+          10,
+          -0.3272676877768781,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.47068711772042804,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.25,
+          0.5593,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3014,
+        "genome": [
+          6,
+          56,
+          -0.30949149863789993,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 56,
+          "learning_rate": 0.4903526214042754,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.17500000000000004,
+          3.768,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3014,
+        "genome": [
+          8,
+          49,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 49,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.13749999999999996,
+          3.5118,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3014,
+        "genome": [
+          6,
+          14,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 14,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          0.9572,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3014,
+        "genome": [
+          2,
+          14,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 14,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.9087,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3014,
+        "genome": [
+          8,
+          10,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          0.7717,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3014,
+        "genome": [
+          6,
+          80,
+          -0.3272676877768781,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 80,
+          "learning_rate": 0.47068711772042804,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.15000000000000002,
+          5.5807,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3014,
+        "genome": [
+          2,
+          29,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 29,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.21250000000000002,
+          1.4388,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3014,
+        "genome": [
+          8,
+          75,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 75,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.08750000000000002,
+          5.3345,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3014,
+        "genome": [
+          6,
+          80,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 80,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.13749999999999996,
+          5.8288,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3014,
+        "genome": [
+          6,
+          29,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 29,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.1875,
+          2.1149,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3014,
+        "genome": [
+          8,
+          29,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 29,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.1875,
+          2.099,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3014,
+        "genome": [
+          6,
+          63,
+          -0.3368269781788249,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 63,
+          "learning_rate": 0.46043997516501023,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.16249999999999998,
+          4.5224,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "method": "nsga2",
+    "seed": 3015,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3015,
+        "genome": [
+          8,
+          41,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 41,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.16249999999999998,
+          2.9618,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3015,
+        "genome": [
+          2,
+          25,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 25,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          1.3347,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3015,
+        "genome": [
+          6,
+          10,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.5542,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3015,
+        "genome": [
+          8,
+          46,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 46,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.15000000000000002,
+          3.3568,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3015,
+        "genome": [
+          5,
+          70,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 70,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.125,
+          4.6555,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3015,
+        "genome": [
+          3,
+          10,
+          -0.3412411474953028,
+          0
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 10,
+          "learning_rate": 0.4557837659837892,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.2875,
+          0.408,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3015,
+        "genome": [
+          6,
+          25,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 25,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.19999999999999996,
+          1.6929,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3015,
+        "genome": [
+          2,
+          30,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 30,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.21250000000000002,
+          1.728,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3015,
+        "genome": [
+          3,
+          15,
+          -0.3412411474953028,
+          1
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 15,
+          "learning_rate": 0.4557837659837892,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.8803,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3015,
+        "genome": [
+          6,
+          30,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 30,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.17500000000000004,
+          2.0286,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3015,
+        "genome": [
+          2,
+          15,
+          -0.3412411474953028,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 15,
+          "learning_rate": 0.4557837659837892,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.8213,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3015,
+        "genome": [
+          8,
+          70,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 70,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.09999999999999998,
+          5.0279,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3015,
+        "genome": [
+          8,
+          60,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 60,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.11250000000000004,
+          4.3024,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3015,
+        "genome": [
+          2,
+          10,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.25,
+          0.5526,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3015,
+        "genome": [
+          8,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.21250000000000002,
+          0.7424,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "method": "nsga2",
+    "seed": 3016,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3016,
+        "genome": [
+          6,
+          31,
+          -0.39630045999636954,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 31,
+          "learning_rate": 0.40151293415382,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.19999999999999996,
+          2.1346,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3016,
+        "genome": [
+          5,
+          69,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 69,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.125,
+          4.4206,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3016,
+        "genome": [
+          8,
+          10,
+          -0.39630045999636954,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.40151293415382,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.19999999999999996,
+          0.7633,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3016,
+        "genome": [
+          8,
+          10,
+          -0.46922249335168037,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.3394513237711586,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          0.5464,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3016,
+        "genome": [
+          2,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.25,
+          0.3629,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3016,
+        "genome": [
+          8,
+          64,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 64,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.11250000000000004,
+          4.6156,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3016,
+        "genome": [
+          2,
+          27,
+          -0.3231468379312551,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 27,
+          "learning_rate": 0.4751745390218204,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          1.5488,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3016,
+        "genome": [
+          6,
+          32,
+          -0.30948478737756685,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 32,
+          "learning_rate": 0.4903601990034896,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.17500000000000004,
+          2.1933,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3016,
+        "genome": [
+          6,
+          11,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 11,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.7804,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3016,
+        "genome": [
+          5,
+          79,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 79,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.11250000000000004,
+          5.2151,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3016,
+        "genome": [
+          5,
+          45,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 45,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.1875,
+          2.9847,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3016,
+        "genome": [
+          3,
+          12,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 12,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.7862,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3016,
+        "genome": [
+          3,
+          64,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 64,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.16249999999999998,
+          3.7962,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3016,
+        "genome": [
+          8,
+          27,
+          -0.3231468379312551,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 27,
+          "learning_rate": 0.4751745390218204,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.1875,
+          2.116,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3016,
+        "genome": [
+          8,
+          55,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 55,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.125,
+          4.1913,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3016,
+        "genome": [
+          2,
+          32,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 32,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          2.5576,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3016,
+        "genome": [
+          2,
+          11,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 11,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.6647,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "nsga2",
+    "seed": 3017,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3017,
+        "genome": [
+          2,
+          11,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 11,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.486,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3017,
+        "genome": [
+          2,
+          10,
+          -0.38395200942366325,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.4130931472464377,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.26249999999999996,
+          0.4218,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3017,
+        "genome": [
+          6,
+          33,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 33,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.17500000000000004,
+          2.3071,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3017,
+        "genome": [
+          2,
+          38,
+          -0.38395200942366325,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 38,
+          "learning_rate": 0.4130931472464377,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.21250000000000002,
+          2.0378,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3017,
+        "genome": [
+          2,
+          25,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 25,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.9263,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3017,
+        "genome": [
+          6,
+          10,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.4555,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3017,
+        "genome": [
+          5,
+          66,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 66,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.125,
+          4.7602,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3017,
+        "genome": [
+          8,
+          10,
+          -0.38395200942366325,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.4130931472464377,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.19999999999999996,
+          0.7578,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3017,
+        "genome": [
+          5,
+          79,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 79,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.11250000000000004,
+          5.1621,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3017,
+        "genome": [
+          6,
+          11,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 11,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.5017,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3017,
+        "genome": [
+          8,
+          66,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 66,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.11250000000000004,
+          4.8716,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3017,
+        "genome": [
+          5,
+          69,
+          -0.33255769073017755,
+          1
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 69,
+          "learning_rate": 0.46498860399355796,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.13749999999999996,
+          4.4431,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "method": "nsga2",
+    "seed": 3018,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          8,
+          29,
+          -0.37638156785182375,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 29,
+          "learning_rate": 0.42035714348334147,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.19999999999999996,
+          2.0994,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          2,
+          10,
+          -0.3239809248840858,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.47426281541094767,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.25,
+          0.5483,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          8,
+          64,
+          -0.4060199624853149,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 64,
+          "learning_rate": 0.39262688776384974,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.13749999999999996,
+          4.5561,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          8,
+          64,
+          -0.3733586447653119,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 64,
+          "learning_rate": 0.42329326182800925,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.125,
+          4.6804,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          2,
+          17,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 17,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.9412,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          6,
+          10,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.7101,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          3,
+          69,
+          -0.4060199624853149,
+          0
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 69,
+          "learning_rate": 0.39262688776384974,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.19999999999999996,
+          4.0499,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          8,
+          10,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          0.7715,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          8,
+          47,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 47,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.15000000000000002,
+          3.4367,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          2,
+          17,
+          -0.4060199624853149,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 17,
+          "learning_rate": 0.39262688776384974,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          1.0019,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          8,
+          39,
+          -0.37638156785182375,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 39,
+          "learning_rate": 0.42035714348334147,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.1875,
+          2.5488,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          9,
+          10,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 9,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.2875,
+          0.5212,
+          55
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          8,
+          64,
+          -0.3340750722962381,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 64,
+          "learning_rate": 0.46336681506309685,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.11250000000000004,
+          4.7422,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          2,
+          29,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 29,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.21250000000000002,
+          1.708,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          3,
+          79,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 79,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.16249999999999998,
+          4.3502,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          6,
+          79,
+          -0.3065773690306601,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 79,
+          "learning_rate": 0.4936539665654361,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.15000000000000002,
+          8.5836,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          8,
+          74,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 74,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.08750000000000002,
+          8.6083,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          8,
+          74,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 74,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.09999999999999998,
+          6.6333,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          6,
+          15,
+          -0.3340750722962381,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 15,
+          "learning_rate": 0.46336681506309685,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          1.0375,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3018,
+        "genome": [
+          6,
+          64,
+          -0.370076170329094,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 64,
+          "learning_rate": 0.42650470815023406,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.17500000000000004,
+          4.3003,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "method": "nsga2",
+    "seed": 3019,
+    "front": [
+      {
+        "method": "nsga2",
+        "seed": 3019,
+        "genome": [
+          8,
+          14,
+          -0.5988756016861659,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 14,
+          "learning_rate": 0.2518398188648234,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.19999999999999996,
+          1.0009,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3019,
+        "genome": [
+          8,
+          44,
+          -0.30241277124663624,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 44,
+          "learning_rate": 0.49841055248838767,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.15000000000000002,
+          3.2223,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3019,
+        "genome": [
+          3,
+          14,
+          -0.30241277124663624,
+          0
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 14,
+          "learning_rate": 0.49841055248838767,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.8349,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3019,
+        "genome": [
+          8,
+          67,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 67,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.11250000000000004,
+          4.7128,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3019,
+        "genome": [
+          2,
+          10,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.25,
+          0.3879,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3019,
+        "genome": [
+          8,
+          75,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 75,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.08750000000000002,
+          5.3182,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3019,
+        "genome": [
+          2,
+          11,
+          -0.30241277124663624,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 11,
+          "learning_rate": 0.49841055248838767,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.4265,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3019,
+        "genome": [
+          8,
+          53,
+          -0.30241277124663624,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 53,
+          "learning_rate": 0.49841055248838767,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.125,
+          3.9605,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3019,
+        "genome": [
+          2,
+          24,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 24,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          1.3215,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3019,
+        "genome": [
+          8,
+          29,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 29,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.1875,
+          2.1296,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3019,
+        "genome": [
+          8,
+          48,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 48,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.13749999999999996,
+          3.4378,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3019,
+        "genome": [
+          8,
+          10,
+          -0.30241277124663624,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 10,
+          "learning_rate": 0.49841055248838767,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          0.747,
+          49
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3019,
+        "genome": [
+          6,
+          24,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 24,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          1.6666,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3019,
+        "genome": [
+          6,
+          39,
+          -0.30241277124663624,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 39,
+          "learning_rate": 0.49841055248838767,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.1875,
+          2.6668,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3019,
+        "genome": [
+          6,
+          75,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 75,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.15000000000000002,
+          4.961,
+          37
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3019,
+        "genome": [
+          2,
+          39,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 39,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.21250000000000002,
+          2.0718,
+          13
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3019,
+        "genome": [
+          5,
+          53,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 53,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.1875,
+          3.4404,
+          31
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3019,
+        "genome": [
+          3,
+          70,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 3,
+          "epochs": 70,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.16249999999999998,
+          3.9877,
+          19
+        ]
+      },
+      {
+        "method": "nsga2",
+        "seed": 3019,
+        "genome": [
+          6,
+          49,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 6,
+          "epochs": 49,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.17500000000000004,
+          3.358,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3000,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3000,
+        "genome": [
+          2,
+          44,
+          -0.8250739029865723,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 44,
+          "learning_rate": 0.14959810664542825,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          2.1113,
+          13
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3000,
+        "genome": [
+          2,
+          24,
+          -0.648792651289871,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 24,
+          "learning_rate": 0.2244953494174515,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.23750000000000004,
+          1.3074,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3001,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3001,
+        "genome": [
+          2,
+          11,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 11,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.6096,
+          13
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3001,
+        "genome": [
+          2,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.25,
+          0.5542,
+          13
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3001,
+        "genome": [
+          2,
+          10,
+          -0.6176659063185665,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.24117600319017526,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.26249999999999996,
+          0.4332,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3002,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3002,
+        "genome": [
+          2,
+          10,
+          -1.0810910311620678,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.08296768432157839,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.275,
+          0.3541,
+          13
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3002,
+        "genome": [
+          2,
+          10,
+          -0.6371973350770141,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.23056992851633645,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.26249999999999996,
+          0.5738,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3003,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3003,
+        "genome": [
+          2,
+          31,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 31,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          1.6358,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3004,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3004,
+        "genome": [
+          2,
+          16,
+          -0.3815359793735491,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 16,
+          "learning_rate": 0.4153976359627129,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.7291,
+          13
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3004,
+        "genome": [
+          2,
+          15,
+          -0.3203037823929885,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 15,
+          "learning_rate": 0.47829541490816635,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.5695,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3005,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3005,
+        "genome": [
+          2,
+          10,
+          -0.6292593554066829,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.23482300674695517,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.26249999999999996,
+          0.4295,
+          13
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3005,
+        "genome": [
+          2,
+          10,
+          -0.5475308117295038,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.28344525315037,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.25,
+          0.5666,
+          13
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3005,
+        "genome": [
+          2,
+          10,
+          -0.7632502691878278,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.1724843636622354,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.2875,
+          0.3889,
+          13
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3005,
+        "genome": [
+          2,
+          15,
+          -0.35368282107270765,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 15,
+          "learning_rate": 0.44291172664265904,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.8173,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3006,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3006,
+        "genome": [
+          5,
+          76,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 76,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.11250000000000004,
+          4.7691,
+          31
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3006,
+        "genome": [
+          5,
+          66,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 66,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.125,
+          4.2065,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3007,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3007,
+        "genome": [
+          2,
+          16,
+          -0.3933469505943893,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 16,
+          "learning_rate": 0.40425281185619943,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.5606,
+          13
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3007,
+        "genome": [
+          2,
+          16,
+          -0.38079886862354173,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 16,
+          "learning_rate": 0.41610327250275303,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.8192,
+          13
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3007,
+        "genome": [
+          2,
+          10,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.25,
+          0.4076,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3008,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3008,
+        "genome": [
+          2,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.25,
+          0.3596,
+          13
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3008,
+        "genome": [
+          2,
+          15,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 15,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.6037,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3009,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3009,
+        "genome": [
+          2,
+          36,
+          -0.37967112674766823,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 36,
+          "learning_rate": 0.4171851809712847,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.21250000000000002,
+          1.8987,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3010,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3010,
+        "genome": [
+          2,
+          17,
+          -0.43582743811755287,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 17,
+          "learning_rate": 0.36658320330410554,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.6426,
+          13
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3010,
+        "genome": [
+          2,
+          12,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 12,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.25,
+          0.477,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3011,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3011,
+        "genome": [
+          2,
+          10,
+          -0.32758768646767167,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.47034043179328744,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.25,
+          0.5149,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3012,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3012,
+        "genome": [
+          8,
+          74,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 74,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.08750000000000002,
+          5.416,
+          49
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3012,
+        "genome": [
+          8,
+          74,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 74,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.09999999999999998,
+          4.9636,
+          49
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3012,
+        "genome": [
+          8,
+          64,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 64,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.11250000000000004,
+          4.5709,
+          49
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3012,
+        "genome": [
+          8,
+          54,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 54,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.125,
+          3.8974,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3013,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3013,
+        "genome": [
+          2,
+          15,
+          -0.41302783010427796,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 15,
+          "learning_rate": 0.3863422189942834,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.6345,
+          13
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3013,
+        "genome": [
+          2,
+          17,
+          -0.41302783010427796,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 17,
+          "learning_rate": 0.3863422189942834,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.9168,
+          13
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3013,
+        "genome": [
+          2,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.25,
+          0.5456,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3014,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3014,
+        "genome": [
+          2,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.25,
+          0.5771,
+          13
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3014,
+        "genome": [
+          2,
+          14,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 14,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.7687,
+          13
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3014,
+        "genome": [
+          2,
+          19,
+          -0.4600502017212591,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 19,
+          "learning_rate": 0.3466967721613652,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.22499999999999998,
+          1.0298,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3015,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3015,
+        "genome": [
+          2,
+          28,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 28,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.21250000000000002,
+          1.2648,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3016,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3016,
+        "genome": [
+          2,
+          15,
+          -0.3529211106816159,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 15,
+          "learning_rate": 0.44368923248067516,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.22499999999999998,
+          0.6286,
+          13
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3016,
+        "genome": [
+          2,
+          10,
+          -0.3529211106816159,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.44368923248067516,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.25,
+          0.5004,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3017,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3017,
+        "genome": [
+          2,
+          10,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.25,
+          0.3839,
+          13
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3017,
+        "genome": [
+          2,
+          10,
+          -0.8492505047747496,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.14149773734632817,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.2875,
+          0.3637,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3018,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3018,
+        "genome": [
+          5,
+          80,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 80,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.11250000000000004,
+          4.7081,
+          31
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3018,
+        "genome": [
+          5,
+          63,
+          -0.3,
+          0
+        ],
+        "parameters": {
+          "hidden": 5,
+          "epochs": 63,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.0
+        },
+        "objectives": [
+          0.13749999999999996,
+          3.5937,
+          31
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3018,
+        "genome": [
+          8,
+          80,
+          -0.3,
+          1
+        ],
+        "parameters": {
+          "hidden": 8,
+          "epochs": 80,
+          "learning_rate": 0.5011872336272722,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.08750000000000002,
+          5.8997,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "method": "weighted",
+    "seed": 3019,
+    "front": [
+      {
+        "method": "weighted",
+        "seed": 3019,
+        "genome": [
+          2,
+          11,
+          -0.3266531521686471,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 11,
+          "learning_rate": 0.47135362110227774,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.23750000000000004,
+          0.4155,
+          13
+        ]
+      },
+      {
+        "method": "weighted",
+        "seed": 3019,
+        "genome": [
+          2,
+          10,
+          -0.5884511360350718,
+          1
+        ],
+        "parameters": {
+          "hidden": 2,
+          "epochs": 10,
+          "learning_rate": 0.2579579185421053,
+          "l2": 0.001
+        },
+        "objectives": [
+          0.25,
+          0.355,
+          13
+        ]
+      }
+    ]
+  }
+]

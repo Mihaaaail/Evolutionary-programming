@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560" role="img">
+<title>Проекция общего эмпирического фронта</title>
+<rect width="960" height="560" fill="white"/>
+<g font-family="Arial, sans-serif" font-size="14" fill="#222">
+<text x="480" y="30" text-anchor="middle" font-size="20">Проекция общего эмпирического фронта</text>
+<path d="M 100.00 70 V 470" stroke="#e3e7eb"/>
+<path d="M 100 470.00 H 930" stroke="#e3e7eb"/>
+<text x="100.00" y="495" text-anchor="middle">0.3471</text>
+<text x="88" y="475.00" text-anchor="end">0.07688</text>
+<path d="M 266.00 70 V 470" stroke="#e3e7eb"/>
+<path d="M 100 390.00 H 930" stroke="#e3e7eb"/>
+<text x="266.00" y="495" text-anchor="middle">1.31</text>
+<text x="88" y="395.00" text-anchor="end">0.1236</text>
+<path d="M 432.00 70 V 470" stroke="#e3e7eb"/>
+<path d="M 100 310.00 H 930" stroke="#e3e7eb"/>
+<text x="432.00" y="495" text-anchor="middle">2.274</text>
+<text x="88" y="315.00" text-anchor="end">0.1704</text>
+<path d="M 598.00 70 V 470" stroke="#e3e7eb"/>
+<path d="M 100 230.00 H 930" stroke="#e3e7eb"/>
+<text x="598.00" y="495" text-anchor="middle">3.237</text>
+<text x="88" y="235.00" text-anchor="end">0.2171</text>
+<path d="M 764.00 70 V 470" stroke="#e3e7eb"/>
+<path d="M 100 150.00 H 930" stroke="#e3e7eb"/>
+<text x="764.00" y="495" text-anchor="middle">4.2</text>
+<text x="88" y="155.00" text-anchor="end">0.2639</text>
+<path d="M 930.00 70 V 470" stroke="#e3e7eb"/>
+<path d="M 100 70.00 H 930" stroke="#e3e7eb"/>
+<text x="930.00" y="495" text-anchor="middle">5.163</text>
+<text x="88" y="75.00" text-anchor="end">0.3106</text>
+<circle cx="100.40" cy="130.96" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="128.76" cy="216.52" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="121.11" cy="259.30" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="100.00" cy="88.18" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="100.67" cy="173.74" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="392.10" cy="302.09" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="592.86" cy="302.09" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="364.43" cy="280.70" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="930.00" cy="451.82" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="745.11" cy="409.04" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="143.01" cy="216.52" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="779.11" cy="387.65" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="592.69" cy="280.70" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="632.05" cy="366.26" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="641.83" cy="387.65" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="643.37" cy="323.48" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="558.67" cy="344.87" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="205.14" cy="237.91" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="550.59" cy="323.48" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="331.92" cy="259.30" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="906.63" cy="430.43" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<circle cx="554.53" cy="280.70" r="3.5" fill="#1769aa" fill-opacity="0.65"/>
+<rect x="100" y="530" width="15" height="8" fill="#1769aa"/>
+<text x="122" y="539">NSGA-II</text>
+<circle cx="258.15" cy="237.91" r="3.5" fill="#d35400" fill-opacity="0.65"/>
+<circle cx="851.52" cy="409.04" r="3.5" fill="#d35400" fill-opacity="0.65"/>
+<circle cx="659.48" cy="366.26" r="3.5" fill="#d35400" fill-opacity="0.65"/>
+<circle cx="111.79" cy="195.13" r="3.5" fill="#d35400" fill-opacity="0.65"/>
+<rect x="305" y="530" width="15" height="8" fill="#d35400"/>
+<text x="327" y="539">Взвешенная сумма</text>
+<text x="480" y="515" text-anchor="middle">Время обучения, мс</text>
+<text transform="translate(23 270) rotate(-90)" text-anchor="middle">Ошибка на проверочных данных</text>
+</g></svg>
