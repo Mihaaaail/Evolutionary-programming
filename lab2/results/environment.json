@@ -1,0 +1,27 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "processor": "AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD",
+  "config": {
+    "population": 60,
+    "budget": 3000,
+    "runs": 20,
+    "first_seed": 2000,
+    "data_seed": 260010,
+    "elitism": 2,
+    "crossover_probability": 0.9,
+    "mutation_probability": 0.08,
+    "penalty": 1000,
+    "repair_node_limit": 5000,
+    "imbalance_weight": 2
+  },
+  "variant": {
+    "student_number": 28,
+    "group": 517,
+    "group_index": 1,
+    "year": 26,
+    "variant": 10,
+    "dimension": 9,
+    "lab3_track": "A"
+  }
+}

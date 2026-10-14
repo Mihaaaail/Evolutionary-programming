@@ -1,0 +1,49 @@
+{
+  "feasible_soft_cost": {
+    "repair_assignment": {
+      "count": 20,
+      "minimum": 64,
+      "mean": 64.35,
+      "median": 64.0,
+      "std": 0.4893604849295929,
+      "maximum": 65
+    },
+    "penalty_assignment": {
+      "count": 20,
+      "minimum": 65,
+      "mean": 67.25,
+      "median": 67.0,
+      "std": 1.943274501832843,
+      "maximum": 72
+    },
+    "repair_swap": {
+      "count": 20,
+      "minimum": 64,
+      "mean": 64.7,
+      "median": 65.0,
+      "std": 0.8013147091860318,
+      "maximum": 67
+    },
+    "random_feasible": {
+      "count": 20,
+      "minimum": 73,
+      "mean": 80.8,
+      "median": 81.0,
+      "std": 3.887902966083929,
+      "maximum": 87
+    }
+  },
+  "feasible_fraction": {
+    "repair_assignment": 1.0,
+    "penalty_assignment": 1.0,
+    "repair_swap": 1.0,
+    "random_feasible": 1.0
+  },
+  "repair_fallbacks": {
+    "repair_assignment": 0,
+    "penalty_assignment": 0,
+    "repair_swap": 0,
+    "random_feasible": 0
+  },
+  "greedy_cost": 73
+}

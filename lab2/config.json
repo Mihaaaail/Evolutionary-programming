@@ -1,0 +1,13 @@
+{
+  "population": 60,
+  "budget": 3000,
+  "runs": 20,
+  "first_seed": 2000,
+  "data_seed": 260010,
+  "elitism": 2,
+  "crossover_probability": 0.9,
+  "mutation_probability": 0.08,
+  "penalty": 1000,
+  "repair_node_limit": 5000,
+  "imbalance_weight": 2
+}
